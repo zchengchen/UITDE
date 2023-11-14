@@ -1,7 +1,4 @@
 # Guide for Code Review
-
-[TOC]
-
 ## Files Structure
 
 The structure of this file is shown as follows:
