@@ -16,5 +16,4 @@ The emergency of intelligent transportation system provides new methods to monit
   pages={1-11},
   keywords={Mobile crowdsensing;true data collection},
   doi={10.1109/TITS.2024.3373411}}
-
 ```
